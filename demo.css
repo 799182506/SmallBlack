@@ -1,0 +1,83 @@
+/*.wrap{*/
+    /*width: 1000px;*/
+    /*margin: 0 auto;*/
+/*}*/
+
+.big_box_one{
+    width: 100%;
+    float: left;
+    margin-bottom: 1%;
+}
+/*每3个分栏里的外套,用于间隔上下盒子。*/
+
+.big_box_one div{
+    border-radius: 25px;
+}
+/*用于设置每个小盒子的圆角属性*/
+
+.box_one{
+    background-color:  orange;
+    width:33%;
+    height: 250px;
+    margin-right: 0.5%;
+    float: left;
+}
+.box_two{
+    background-color:  orange;
+    width:33%;
+    height: 250px;
+    margin-right:0.5%;
+    float: left;
+}
+.box_three{
+    background-color:  orange;
+    width:33%;
+    height: 250px;
+    float: left;
+}
+/*上三个小盒子，设置了宽度百分比和左浮动。前两个盒子设置了右间隔0.5%，用于三个盒子有个间隔*/
+
+.box_four{
+    background-color:  orange;
+    width:33%;
+    height: 250px;
+    margin-right: 0.5%;
+    float: left;
+}
+.box_five{
+    background-color:  orange;
+    width:33%;
+    height: 250px;
+    margin-right: 0.5%;
+    float: left;
+}
+.box_six{
+    background-color:  orange;
+    width:33%;
+    height: 250px;
+    float: left;
+}
+/*中三小盒子，同上*/
+
+
+.box_seven{
+    background-color:  orange;
+    width:33%;
+    height: 250px;
+    margin-right: 0.5%;
+    float: left;
+}
+.box_eight{
+    background-color:  orange;
+    width:33%;
+    height: 250px;
+    margin-right: 0.5%;
+    float: left;
+}
+.box_nine{
+    background-color:  orange;
+    width:33%;
+    height: 250px;
+    float: left;
+}
+/*下三小盒子*/
